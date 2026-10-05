@@ -1,0 +1,12 @@
+{
+  "name": "trafficflow-ai",
+  "version": "1.0.0",
+  "description": "Predict traffic. Plan smarter. AI-powered traffic congestion prediction and multi-route optimization platform.",
+  "private": true,
+  "scripts": {
+    "start:server": "cd server && npm start",
+    "dev:server": "cd server && npm run dev",
+    "dev:frontend": "cd frontend && npm run dev",
+    "build:frontend": "cd frontend && npm run build"
+  }
+}
